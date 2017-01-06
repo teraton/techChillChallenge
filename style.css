@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    margin: 0px auto;
+    padding: 0px;
+}
+
+li {
+	white-space: nowrap;
+}
